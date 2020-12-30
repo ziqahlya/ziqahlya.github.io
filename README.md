@@ -1,2 +1,2 @@
-# ziqahlya.github.io
+# http://ziqahlya.github.io
 IMS456 Personal Website Assignment
